@@ -3,6 +3,16 @@
     <channel>
         <title>Whisky</title>
         <item>
+            <title>pre-0.2.4</title>
+            <pubDate>Tue, 13 Jun 2023 17:33:40 +0200</pubDate>
+            <link>https://github.com/IsaacMarovitz/Whisky/releases/tag/pre-0.2.4</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/IsaacMarovitz/Whisky/releases/tag/pre-0.2.4</sparkle:fullReleaseNotesLink>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>pre-0.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.1</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/IsaacMarovitz/Whisky/releases/download/pre-0.2.4/Whisky.zip" length="411815661" type="application/octet-stream" sparkle:edSignature="qQ7YER2PXkqN8Mdd2gNLotHPQZ2k/hBNStJs0Pmo+ZKj9Le/+NEywPvhy1AaQXwC0jmoky5m4F/qDmgZDjifBw=="/>
+        </item>
+        <item>
             <title>pre-0.2.3</title>
             <pubDate>Sat, 10 Jun 2023 13:41:26 +0200</pubDate>
             <link>https://github.com/IsaacMarovitz/Whisky/releases/tag/pre-0.2.3</link>
