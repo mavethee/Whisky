@@ -3,15 +3,6 @@
     <channel>
         <title>Whisky</title>
         <item>
-            <title>1.1.1</title>
-            <pubDate>Wed, 23 Aug 2023 17:37:18 +0100</pubDate>
-            <link>https://github.com/IsaacMarovitz/Whisky/releases/tag/v1.1.1</link>
-            <sparkle:version>18</sparkle:version>
-            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.1</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/IsaacMarovitz/Whisky/releases/download/v1.1.1/Whisky.zip" length="5664997" type="application/octet-stream" sparkle:edSignature="6nX/5DSDTrdSvZPtqyYbXKhyOfyL+i9bOJ7O7D7E3x8J/h4wUNlH3xNJaIUkZiTUhlaBiWHFxvnsq3THJnB5Cg=="/>
-        </item>
-        <item>
             <title>1.1.0</title>
             <pubDate>Wed, 02 Aug 2023 13:34:17 -0400</pubDate>
             <link>https://github.com/IsaacMarovitz/Whisky/releases/tag/v1.1.0</link>
