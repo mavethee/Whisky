@@ -3,13 +3,22 @@
     <channel>
         <title>Whisky</title>
         <item>
+            <title>1.1.1</title>
+            <pubDate>Thu, 24 Aug 2023 15:07:20 +0100</pubDate>
+            <link>https://github.com/IsaacMarovitz/Whisky/releases/tag/v1.1.1</link>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.1</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/IsaacMarovitz/Whisky/releases/download/v1.1.1/Whisky.zip" length="5665314" type="application/octet-stream" sparkle:edSignature="oBqPhkiULlamVOtAOqXwPFiAwNKFfT5h8W6bESktu3ocJjiUXlA8PuM6gD7B4kThBAss7ZJBFdKF3kEmhLmXDg=="/>
+        </item>
+        <item>
             <title>1.1.0</title>
             <pubDate>Wed, 02 Aug 2023 13:34:17 -0400</pubDate>
             <link>https://github.com/IsaacMarovitz/Whisky/releases/tag/v1.1.0</link>
             <sparkle:version>17</sparkle:version>
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.1</sparkle:minimumSystemVersion>
-            <enclosure uurl="https://github.com/IsaacMarovitz/Whisky/releases/download/v1.1.0/Whisky.zip" length="5663077" type="application/octet-stream" sparkle:edSignature="rA5qQ8aXiWKCuHijNRP1+EAZabynSyLVffYCoC0dpUbG9OCsoBIhPKN1sPvGZHsh9jSSfj6pebTY6tQEJgIaDA=="/>
+            <enclosure url="https://github.com/IsaacMarovitz/Whisky/releases/download/v1.1.0/Whisky.zip" length="5663077" type="application/octet-stream" sparkle:edSignature="rA5qQ8aXiWKCuHijNRP1+EAZabynSyLVffYCoC0dpUbG9OCsoBIhPKN1sPvGZHsh9jSSfj6pebTY6tQEJgIaDA=="/>
         </item>
         <item>
             <title>1.0.1</title>
