@@ -3,6 +3,14 @@
     <channel>
         <title>Whisky</title>
         <item>
+            <title>2.1.0</title>
+            <pubDate>Wed, 11 Oct 2023 10:47:53 -0400</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Whisky-App/Whisky/releases/download/v2.1.0/Whisky.zip" length="5249469" type="application/octet-stream" sparkle:edSignature="l2R3GyE65RWkKckmgm3vC37wIt2HqH3IJxKv9a6FoSDK00asnAhgyq3vuUXPCcshwa//ZZosHnNOMfr9YfrPAg=="/>
+        </item>
+        <item>
             <title>2.0.2</title>
             <pubDate>Fri, 06 Oct 2023 13:34:22 -0400</pubDate>
             <sparkle:version>28</sparkle:version>
