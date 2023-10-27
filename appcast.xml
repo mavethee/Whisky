@@ -8,7 +8,7 @@
             <sparkle:version>29</sparkle:version>
             <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Whisky-App/Whisky/releases/download/v2.1.0/Whisky.zip" length="5249469" type="application/octet-stream" sparkle:edSignature="l2R3GyE65RWkKckmgm3vC37wIt2HqH3IJxKv9a6FoSDK00asnAhgyq3vuUXPCcshwa//ZZosHnNOMfr9YfrPAg=="/>
+            <enclosure url="https://data.getwhisky.app/Releases/v2.1.0/Whisky.zip" length="5249469" type="application/octet-stream" sparkle:edSignature="l2R3GyE65RWkKckmgm3vC37wIt2HqH3IJxKv9a6FoSDK00asnAhgyq3vuUXPCcshwa//ZZosHnNOMfr9YfrPAg=="/>
         </item>
         <item>
             <title>2.0.2</title>
@@ -16,7 +16,7 @@
             <sparkle:version>28</sparkle:version>
             <sparkle:shortVersionString>2.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Whisky-App/Whisky/releases/download/v2.0.2/Whisky.zip" length="5249610" type="application/octet-stream" sparkle:edSignature="aqjc9XzAUh3gP8MAgqPdynTmixRvaWbGFzWQbLnNaMQm2kZOXDVoeurcQiEPhmYrJVkg1+pme4rEFTQ/dePgBA=="/>
+            <enclosure url="https://data.getwhisky.app/Releases/v2.0.2/Whisky.zip" length="5249610" type="application/octet-stream" sparkle:edSignature="aqjc9XzAUh3gP8MAgqPdynTmixRvaWbGFzWQbLnNaMQm2kZOXDVoeurcQiEPhmYrJVkg1+pme4rEFTQ/dePgBA=="/>
         </item>
         <item>
             <title>2.0.1</title>
@@ -24,7 +24,7 @@
             <sparkle:version>27</sparkle:version>
             <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Whisky-App/Whisky/releases/download/v2.0.1/Whisky.zip" length="5249432" type="application/octet-stream" sparkle:edSignature="9w4sOoeQ1AMOSfLNHnEG3QZjmhpMli69mKhZKJWjYprbCal0awNJax9Gzj33tEUTsvn/DFWdQ8IXCP8EM1z6Aw=="/>
+            <enclosure url="https://data.getwhisky.app/Releases/v2.0.1/Whisky.zip" length="5249432" type="application/octet-stream" sparkle:edSignature="9w4sOoeQ1AMOSfLNHnEG3QZjmhpMli69mKhZKJWjYprbCal0awNJax9Gzj33tEUTsvn/DFWdQ8IXCP8EM1z6Aw=="/>
         </item>
         <item>
             <title>2.0.0</title>
@@ -32,121 +32,7 @@
             <sparkle:version>26</sparkle:version>
             <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Whisky-App/Whisky/releases/download/v2.0.0/Whisky.zip" length="5245181" type="application/octet-stream" sparkle:edSignature="egyjFiGW2/uiWmSGohTdtXmNbJCknOL3DnZeUzPbejH7YbTPi19KKm38YWPZaQQZ1anVD4U3JNQNiCrWq496CA=="/>
-        </item>
-        <item>
-            <title>1.3.2</title>
-            <pubDate>Thu, 14 Sep 2023 14:26:35 -0400</pubDate>
-            <sparkle:version>25</sparkle:version>
-            <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Whisky-App/Whisky/releases/download/v1.3.2/Whisky.zip" length="4915318" type="application/octet-stream" sparkle:edSignature="Drc7XZShxWyhcmY0Xh3RFyTGxRsxnVBvX7X+YQChzOXT+QiVqZfmk1iOsJ1aX3giNjV5WYcMBUydFQXLaeOzAg=="/>
-        </item>
-        <item>
-            <title>1.3.1</title>
-            <pubDate>Tue, 12 Sep 2023 12:33:10 -0400</pubDate>
-            <sparkle:version>24</sparkle:version>
-            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Whisky-App/Whisky/releases/download/v1.3.1/Whisky.zip" length="4912517" type="application/octet-stream" sparkle:edSignature="3ktvE7kUA8WUQhVVeVNfcvVLdXT+gZIgToY1vVh8YZXq/KX7OWQQUtm5bWo+d726W67QSUygYzjD9xjEQcObDw=="/>
-        </item>
-        <item>
-            <title>1.3.0</title>
-            <pubDate>Mon, 11 Sep 2023 10:46:06 -0400</pubDate>
-            <sparkle:version>23</sparkle:version>
-            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Whisky-App/Whisky/releases/download/v1.3.0/Whisky.zip" length="4913795" type="application/octet-stream" sparkle:edSignature="tIk475lqCCce3Gf3BZH01GjRpKMSazm6mLrMES4Og4G6+iK3roDTkLFD6PCRzVAwIqTpbj1l97BiLjtUrPdwAg=="/>
-        </item>
-        <item>
-            <title>1.2.2</title>
-            <pubDate>Fri, 08 Sep 2023 19:24:59 -0400</pubDate>
-            <sparkle:version>22</sparkle:version>
-            <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Whisky-App/Whisky/releases/download/v1.2.2/Whisky.zip" length="4573923" type="application/octet-stream" sparkle:edSignature="t1Z2URK2nng5jr9g7IVq1yJTCpQ6wqntb1Gw/BQqD+lKlzPxFtmtYZf+Wlz1O2PSl9hmUmHktGLantZWsEy9CQ=="/>
-        </item>
-        <item>
-            <title>1.2.1</title>
-            <pubDate>Mon, 04 Sep 2023 23:16:04 -0400</pubDate>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Whisky-App/Whisky/releases/download/v1.2.1/Whisky.zip" length="4570012" type="application/octet-stream" sparkle:edSignature="8b/QY/jlRwtYPxvX2ufDJbYOtPzxuaXmVZnWU3Vtfnj7PhvGi+DVhQG6rd6yC8C1U29xyTMU8hHoZln4DUHPAQ=="/>
-        </item>
-        <item>
-            <title>1.2.0</title>
-            <pubDate>Wed, 30 Aug 2023 14:17:19 +0100</pubDate>
-            <sparkle:version>20</sparkle:version>
-            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Whisky-App/Whisky/releases/download/v1.2.0/Whisky.zip" length="5731863" type="application/octet-stream" sparkle:edSignature="UIPhGKOJgbKyymGm3S6NZPIQLETg6f99aP89/gsgF/Wv9yyO8TFiVCdtw+LrZaGglV2q5SMHudO+H3vayjDeAA=="/>
-        </item>
-        <item>
-            <title>1.1.1</title>
-            <pubDate>Thu, 24 Aug 2023 15:07:20 +0100</pubDate>
-            <link>https://github.com/Whisky-App/Whisky/releases/tag/v1.1.1</link>
-            <sparkle:version>19</sparkle:version>
-            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.1</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Whisky-App/Whisky/releases/download/v1.1.1/Whisky.zip" length="5665314" type="application/octet-stream" sparkle:edSignature="oBqPhkiULlamVOtAOqXwPFiAwNKFfT5h8W6bESktu3ocJjiUXlA8PuM6gD7B4kThBAss7ZJBFdKF3kEmhLmXDg=="/>
-        </item>
-        <item>
-            <title>1.1.0</title>
-            <pubDate>Wed, 02 Aug 2023 13:34:17 -0400</pubDate>
-            <link>https://github.com/Whisky-App/Whisky/releases/tag/v1.1.0</link>
-            <sparkle:version>17</sparkle:version>
-            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.1</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Whisky-App/Whisky/releases/download/v1.1.0/Whisky.zip" length="5663077" type="application/octet-stream" sparkle:edSignature="rA5qQ8aXiWKCuHijNRP1+EAZabynSyLVffYCoC0dpUbG9OCsoBIhPKN1sPvGZHsh9jSSfj6pebTY6tQEJgIaDA=="/>
-        </item>
-        <item>
-            <title>1.0.1</title>
-            <pubDate>Fri, 07 Jul 2023 18:36:57 +0100</pubDate>
-            <link>https://github.com/Whisky-App/Whisky/releases/tag/v1.0.1</link>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.1</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Whisky-App/Whisky/releases/download/v1.0.1/Whisky.zip" length="4285450" type="application/octet-stream" sparkle:edSignature="2GNbMHqKqnmLI2tp8ovgk5Sr7HTa4lzrNNxqCaankkomWckxqVs0qwID41kuWf/Hf6LornuPmmhcc85z4P7ACg=="/>
-        </item>
-        <item>
-            <title>pre-0.1.3</title>
-            <pubDate>Tue, 02 May 2023 19:30:00 -0400</pubDate>
-            <link>https://github.com/Whisky-App/Whisky/releases/tag/pre-0.1.3</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/Whisky-App/Whisky/releases/tag/pre-0.1.3</sparkle:fullReleaseNotesLink>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>pre-0.1.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Whisky-App/Whisky/releases/download/pre-0.1.3/Whisky.zip" length="238992355" type="application/octet-stream" sparkle:edSignature="5DR0fe/QZoNM4B1X+ZhGF5fimcmwjoI7K2X7eBmkng46Gj1TolWP5l9xqTs3h/BJNv0yXIkJwVdrnqqBfQWmCw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Whisky-App/Whisky/releases/download/pre-0.1.3/Whisky4-3.delta" sparkle:deltaFrom="3" length="1447134" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="7/BYvGexXELpfLzIcLkUMdplTCCIjt16XRKaV0U8j53YvzLqSUHnYH3+dIXuEzXEUphrH0PYlT7XRFrOArgECQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>pre-0.1.2</title>
-            <pubDate>Fri, 07 Apr 2023 18:46:07 -0400</pubDate>
-            <link>https://github.com/Whisky-App/Whisky/releases/tag/pre-0.1.2</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/Whisky-App/Whisky/releases/tag/pre-0.1.2</sparkle:fullReleaseNotesLink>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>pre-0.1.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Whisky-App/Whisky/releases/download/pre-0.1.2/Whisky.zip" length="237495793" type="application/octet-stream" sparkle:edSignature="//838Vt0Lp1rbAWB2fHU0YP9i/q51TV4WdqfVdiPAXpHpjmsCHFXPbM2YPbfS1H8pNSfF6zGUvPIUdLjv0fmDQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Whisky-App/Whisky/releases/download/pre-0.1.2/Whisky3-2.delta" sparkle:deltaFrom="2" length="77741138" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="XZ9GUFSxxLHZ9kY1TyxiSjV4knwn8PbBxVCMUSTgfMEXTE4vGMEh4Y2o3+yB+SqtlsbwyOVlFyjYs8k7YjC0AA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>pre-0.1.1</title>
-            <pubDate>Wed, 05 Apr 2023 21:23:10 -0400</pubDate>
-            <link>https://github.com/Whisky-App/Whisky/releases/tag/pre-0.1.1</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/Whisky-App/Whisky/releases/tag/pre-0.1.1</sparkle:fullReleaseNotesLink>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>pre-0.1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Whisky-App/Whisky/releases/download/pre-0.1.2/Whisky.zip" length="346306139" type="application/octet-stream" sparkle:edSignature="F5GNR5hjFevkztae4LG7avAIIDsUB8YPuAB1a/0aFZ/IbEvNQsoyF0FW4j6M5HG1EhxWj51/0S8qcPBmPTHWBA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Whisky-App/Whisky/releases/download/pre-0.1.1/Whisky2-1.delta" sparkle:deltaFrom="1" length="73038" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="P8AY59qyzNtrtuqFiEvMihmrDyx4XSDvoEEm7H3L0bF73PCjBdr80fQn0ARLNUjA3Wz20NzpkxtA2Oksq/tLAg=="/>
-            </sparkle:deltas>
+            <enclosure url="https://data.getwhisky.app/Releases/v2.0.0/Whisky.zip" length="5245181" type="application/octet-stream" sparkle:edSignature="egyjFiGW2/uiWmSGohTdtXmNbJCknOL3DnZeUzPbejH7YbTPi19KKm38YWPZaQQZ1anVD4U3JNQNiCrWq496CA=="/>
         </item>
     </channel>
 </rss>
