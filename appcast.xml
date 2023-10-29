@@ -3,12 +3,57 @@
     <channel>
         <title>Whisky</title>
         <item>
+            <title>2.1.1</title>
+            <pubDate>Sat, 28 Oct 2023 22:23:04 -0400</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>2.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://data.getwhisky.app/Releases/v2.1.1/Whisky.zip" length="4727899" type="application/octet-stream" sparkle:edSignature="a/EwLmqR8DSPb0M+rZDeTketkkOCuqIkDl36C2MKabYHmUAciF6xYI4gkOhFe7ucdVmzy3fZlp0esV24RFonDQ=="/>
+            <description><![CDATA[
+                <h2>New Features:</h2>
+                <ul>
+                    <li>New settings window to allow you to configure settings like Whisky's update behaviour</li>
+                    <li>WhiskyKit is now a Swift Package, allowing it to be integrated into other projects easily</li>
+                </ul>
+
+                <h2>Quality of Life:</h2>
+                <ul>
+                    <li>Removed some unused dependencies</li>
+                    <li>All in-app internet requests will now be made to Whisky's server, eliminating the need to use a VPN to update Whisky for users in mainland China</li>
+                    <li>Better in-app help menu with quick links for Whisky's Website, Discord, and GitHub</li>
+                </ul>
+
+                <h2>Bug Fixes:</h2>
+                <ul>
+                    <li>Significantly reduced the memory footprint of Whisky</li>
+                    <li>Fixed a crash that would occur with certain programs and bottles</li>
+                </ul>
+
+                <h2>Full Changelog:</h2> <a href="https://github.com/Whisky-App/Whisky/compare/v2.1.0...v2.1.1">https://github.com/Whisky-App/Whisky/compare/v2.1.0...v2.1.1</a>
+            ]]></description>
+        </item>
+        <item>
             <title>2.1.0</title>
             <pubDate>Wed, 11 Oct 2023 10:47:53 -0400</pubDate>
             <sparkle:version>29</sparkle:version>
             <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://data.getwhisky.app/Releases/v2.1.0/Whisky.zip" length="5249469" type="application/octet-stream" sparkle:edSignature="l2R3GyE65RWkKckmgm3vC37wIt2HqH3IJxKv9a6FoSDK00asnAhgyq3vuUXPCcshwa//ZZosHnNOMfr9YfrPAg=="/>
+            <description><![CDATA[
+                <h2>New Features:</h2>
+                <ul>
+                    <li>Added <a href="https://github.com/marzent/wine-msync"><strong>MSync</strong></a>, a Mac-specific implementation of Wine sync, which greatly improves FPS in CPU-bound applications (GPTK needs to be re-downloaded)</li>
+                </ul>
+
+                <h2>Bug Fixes:</h2>
+                <ul>
+                    <li>Added a minimum window size to Whisky's main window</li>
+                    <li>Fixed programs starting from pins not using arguments and environment variables</li>
+                    <li>Fixed an issue where Retina Mode toggle would fail on other languages if the key didn't exist</li>
+                </ul>
+
+                <h2>Full Changelog:</h2> <a href="https://github.com/Whisky-App/Whisky/compare/v2.0.2...v2.1.0">https://github.com/Whisky-App/Whisky/compare/v2.0.2...v2.1.0</a>
+            ]]></description>
         </item>
         <item>
             <title>2.0.2</title>
@@ -17,22 +62,6 @@
             <sparkle:shortVersionString>2.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://data.getwhisky.app/Releases/v2.0.2/Whisky.zip" length="5249610" type="application/octet-stream" sparkle:edSignature="aqjc9XzAUh3gP8MAgqPdynTmixRvaWbGFzWQbLnNaMQm2kZOXDVoeurcQiEPhmYrJVkg1+pme4rEFTQ/dePgBA=="/>
-        </item>
-        <item>
-            <title>2.0.1</title>
-            <pubDate>Sat, 30 Sep 2023 16:46:50 -0400</pubDate>
-            <sparkle:version>27</sparkle:version>
-            <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://data.getwhisky.app/Releases/v2.0.1/Whisky.zip" length="5249432" type="application/octet-stream" sparkle:edSignature="9w4sOoeQ1AMOSfLNHnEG3QZjmhpMli69mKhZKJWjYprbCal0awNJax9Gzj33tEUTsvn/DFWdQ8IXCP8EM1z6Aw=="/>
-        </item>
-        <item>
-            <title>2.0.0</title>
-            <pubDate>Tue, 26 Sep 2023 14:04:07 -0400</pubDate>
-            <sparkle:version>26</sparkle:version>
-            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://data.getwhisky.app/Releases/v2.0.0/Whisky.zip" length="5245181" type="application/octet-stream" sparkle:edSignature="egyjFiGW2/uiWmSGohTdtXmNbJCknOL3DnZeUzPbejH7YbTPi19KKm38YWPZaQQZ1anVD4U3JNQNiCrWq496CA=="/>
         </item>
     </channel>
 </rss>
